@@ -253,7 +253,7 @@
         android:textColor="@color/black"
         android:textSize="17dp"
         android:background="#66ccff"/>
-
+<!---->
     <EditText
         android:id="@+id/et_server_ip"
         android:layout_width="match_parent"
